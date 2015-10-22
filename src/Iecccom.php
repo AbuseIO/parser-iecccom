@@ -2,12 +2,6 @@
 
 namespace AbuseIO\Parsers;
 
-use Ddeboer\DataImport\Reader;
-use Ddeboer\DataImport\Writer;
-use Ddeboer\DataImport\Filter;
-use Log;
-use ReflectionClass;
-
 class Iecccom extends Parser
 {
     /**
