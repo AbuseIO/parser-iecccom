@@ -1,7 +1,7 @@
 {
     "name": "abuseio/parser-iecccom",
     "description": "Parser addon for handling notifications from iecc.com",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "keywords": ["laravel", "abuseio", "parser", "iecc.com"],
     "homepage": "http://abuse.io",
     "type": "library",
